@@ -1,0 +1,6 @@
+
+/dist
+/temp
+/.angular/cache
+
+/node_modules
